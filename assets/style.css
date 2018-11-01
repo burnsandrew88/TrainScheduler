@@ -1,0 +1,39 @@
+.jumbotron-fluid{
+    background-color: black;
+    color:white;
+}
+
+#heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#subheading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.Train-Heading{
+    margin: auto;
+
+}
+
+#Train-Heading{
+    text-align: center;
+}
+
+body{
+    background-image: url(./images/800px_COLOURBOX4544193.jpg);
+    background-repeat: vertical;
+    background-size: cover;
+}
+#form-label{
+    color:white;
+    font-size: 28px;
+}
+
+.panel-heading{
+    color: white;
+    font-size: 45px;
+}
+strong{
+    font-size: 24px;
+}
