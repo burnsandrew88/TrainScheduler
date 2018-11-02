@@ -25,6 +25,7 @@
 
   function currentTime(){
       var current = moment().format('LT');
+    //   var date = moment().format("MMM Do YY");- play around with this later
       $("#currentTime").html(current);
       setTimeout(currentTime, 1000);
   };
